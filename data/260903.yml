@@ -1,11 +1,13 @@
 about:
-  description: Cross-forge collaboration platform
+  description:
+  |
+    Cross-forge collaboration platform
   license: MIT
   homepage: https://gitsocial.org/
   head: e69cd1e
   archived: false
   latestVersion: v0.22.0
-  collectedAt: 2026-09-03T05:13:28Z
+  collectedAt: 2026-09-03T22:35:51Z
 timeline:
   created: 2025-10-27
   lastCommit: 2026-08-31
@@ -24,7 +26,7 @@ language:
   CSS: 84744
   Shell: 51222
   HTML: 13775
-totalLine: 6411249
+totalBytes: 6411249
 recent:
   last30d:
     since: 2026-08-04
