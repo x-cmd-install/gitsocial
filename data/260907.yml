@@ -1,11 +1,11 @@
 about:
-  description: "Cross-forge collaboration platform"
+  description: "Git-native collaboration platform"
   license: MIT
   homepage: https://gitsocial.org/
   head: 59405ae
   archived: false
   latestVersion: "v0.23.0"
-  collectedAt: 2026-09-07T05:53:12Z
+  collectedAt: 2026-09-07T18:43:44Z
 timeline:
   created: 2025-10-27
   lastCommit: 2026-09-07
@@ -83,7 +83,7 @@ total:
   commit: 252
 ---
 path: /home/runner/.x-repo/github.com/gitsocial-org/gitsocial
-collectedAt: 2026-09-07T05:53:14Z
+collectedAt: 2026-09-07T18:43:46Z
 loc:
   Go:
     code: 146653
@@ -144,7 +144,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:53:16+00:00
+  collectedAt: 2026-09-07T18:43:51+00:00
   platform:
     darwin/arm64:
       name:  gitsocial_0.23.0_darwin_arm64.zip
