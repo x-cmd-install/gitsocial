@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 12064732,
       "digest": "sha256:69b411a96833ae8f1cf3d407cdf437c75976955ac940919d913aac2220b85c0b",
-      "download_count": 6,
+      "download_count": 8,
       "created_at": "2026-09-21T03:02:56Z",
       "updated_at": "2026-09-21T03:02:59Z",
       "browser_download_url": "https://github.com/gitsocial-org/gitsocial/releases/download/v0.25.0/gitsocial_0.25.0_linux_amd64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 12306078,
       "digest": "sha256:be7a5ad35d4fdc74c9873d8266a6b94c2a9cb5a3a096e830442a37f9f525afcf",
-      "download_count": 0,
+      "download_count": 3,
       "created_at": "2026-09-21T03:02:56Z",
       "updated_at": "2026-09-21T03:02:59Z",
       "browser_download_url": "https://github.com/gitsocial-org/gitsocial/releases/download/v0.25.0/gitsocial_0.25.0_windows_amd64.zip"
