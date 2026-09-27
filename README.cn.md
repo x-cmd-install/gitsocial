@@ -14,13 +14,13 @@ x install gitsocial
 
 ## 代码洞察
 
-合计: **176,967** 行代码（覆盖前 5 种语言、共 **880** 个文件）。
+合计: **178,908** 行代码（覆盖前 5 种语言、共 **887** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 157,795 | 13,973 | 15,276 | 701 |
-| JavaScript | 13,103 | 2,612 | 1,106 | 140 |
-| Json | 3,583 | 0 | 0 | 24 |
+| Go | 159,283 | 14,122 | 15,410 | 707 |
+| JavaScript | 13,541 | 2,654 | 1,147 | 141 |
+| Json | 3,592 | 0 | 0 | 24 |
 | Sh | 1,470 | 489 | 187 | 13 |
 | Css | 883 | 460 | 6 | 2 |
 
@@ -32,8 +32,8 @@ x install gitsocial
 
 ## 发布
 
-- **最新版本**: `v0.25.0` (2026-09-21)
-- **最近提交**: 2026-09-25
+- **最新版本**: `v0.26.0` (2026-09-27)
+- **最近提交**: 2026-09-27
 - **Release 含资产**: 11 个
 
 ## 流行度
@@ -42,34 +42,34 @@ x install gitsocial
 
 ## 累计统计
 
-- **发布数**: 55 · **已合并 PR**: 0 · **开放 PR**: 0 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 550
+- **发布数**: 56 · **已合并 PR**: 0 · **开放 PR**: 0 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 568
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 4 | 0 | 0 | 0 | 0 | 330 |
-| last60d | 2026-07-28 | 8 | 0 | 0 | 0 | 0 | 363 |
-| 90d | 2026-06-28 | 16 | 0 | 0 | 0 | 0 | 420 |
-| last180d | 2026-03-30 | 34 | 0 | 0 | 0 | 0 | 512 |
-| 360d | 2025-10-01 | 55 | 0 | 0 | 0 | 0 | 549 |
-| last720d | 2024-10-06 | 55 | 0 | 0 | 0 | 0 | 550 |
+| 30d | 2026-08-28 | 5 | 0 | 0 | 0 | 0 | 323 |
+| last60d | 2026-07-29 | 9 | 0 | 0 | 0 | 0 | 369 |
+| 90d | 2026-06-29 | 17 | 0 | 0 | 0 | 0 | 417 |
+| last180d | 2026-03-31 | 35 | 0 | 0 | 0 | 0 | 521 |
+| 360d | 2025-10-02 | 56 | 0 | 0 | 0 | 0 | 567 |
+| last720d | 2024-10-07 | 56 | 0 | 0 | 0 | 0 | 568 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [checksums.txt](https://github.com/gitsocial-org/gitsocial/releases/download/v0.25.0/checksums.txt) | 1.0 KiB | `other` |
-| [gitsocial_0.25.0_darwin_amd64.zip](https://github.com/gitsocial-org/gitsocial/releases/download/v0.25.0/gitsocial_0.25.0_darwin_amd64.zip) | 11.9 MiB | `native/darwin/x64` |
-| [gitsocial_0.25.0_darwin_amd64.zip.sbom.json](https://github.com/gitsocial-org/gitsocial/releases/download/v0.25.0/gitsocial_0.25.0_darwin_amd64.zip.sbom.json) | 81.9 KiB | `native/darwin/x64` |
-| [gitsocial_0.25.0_darwin_arm64.zip](https://github.com/gitsocial-org/gitsocial/releases/download/v0.25.0/gitsocial_0.25.0_darwin_arm64.zip) | 10.9 MiB | `native/darwin/arm64` |
-| [gitsocial_0.25.0_darwin_arm64.zip.sbom.json](https://github.com/gitsocial-org/gitsocial/releases/download/v0.25.0/gitsocial_0.25.0_darwin_arm64.zip.sbom.json) | 81.9 KiB | `native/darwin/arm64` |
-| [gitsocial_0.25.0_linux_amd64.tar.gz](https://github.com/gitsocial-org/gitsocial/releases/download/v0.25.0/gitsocial_0.25.0_linux_amd64.tar.gz) | 11.5 MiB | `native/linux/x64` |
-| [gitsocial_0.25.0_linux_amd64.tar.gz.sbom.json](https://github.com/gitsocial-org/gitsocial/releases/download/v0.25.0/gitsocial_0.25.0_linux_amd64.tar.gz.sbom.json) | 80.4 KiB | `native/linux/x64` |
-| [gitsocial_0.25.0_linux_arm64.tar.gz](https://github.com/gitsocial-org/gitsocial/releases/download/v0.25.0/gitsocial_0.25.0_linux_arm64.tar.gz) | 10.5 MiB | `native/linux/arm64` |
-| [gitsocial_0.25.0_linux_arm64.tar.gz.sbom.json](https://github.com/gitsocial-org/gitsocial/releases/download/v0.25.0/gitsocial_0.25.0_linux_arm64.tar.gz.sbom.json) | 80.4 KiB | `native/linux/arm64` |
-| [gitsocial_0.25.0_windows_amd64.zip](https://github.com/gitsocial-org/gitsocial/releases/download/v0.25.0/gitsocial_0.25.0_windows_amd64.zip) | 11.7 MiB | `native/win/x64` |
-| [gitsocial_0.25.0_windows_amd64.zip.sbom.json](https://github.com/gitsocial-org/gitsocial/releases/download/v0.25.0/gitsocial_0.25.0_windows_amd64.zip.sbom.json) | 81.9 KiB | `native/win/x64` |
+| [checksums.txt](https://github.com/gitsocial-org/gitsocial/releases/download/v0.26.0/checksums.txt) | 1.0 KiB | `other` |
+| [gitsocial_0.26.0_darwin_amd64.zip](https://github.com/gitsocial-org/gitsocial/releases/download/v0.26.0/gitsocial_0.26.0_darwin_amd64.zip) | 11.9 MiB | `native/darwin/x64` |
+| [gitsocial_0.26.0_darwin_amd64.zip.sbom.json](https://github.com/gitsocial-org/gitsocial/releases/download/v0.26.0/gitsocial_0.26.0_darwin_amd64.zip.sbom.json) | 81.9 KiB | `native/darwin/x64` |
+| [gitsocial_0.26.0_darwin_arm64.zip](https://github.com/gitsocial-org/gitsocial/releases/download/v0.26.0/gitsocial_0.26.0_darwin_arm64.zip) | 10.9 MiB | `native/darwin/arm64` |
+| [gitsocial_0.26.0_darwin_arm64.zip.sbom.json](https://github.com/gitsocial-org/gitsocial/releases/download/v0.26.0/gitsocial_0.26.0_darwin_arm64.zip.sbom.json) | 81.9 KiB | `native/darwin/arm64` |
+| [gitsocial_0.26.0_linux_amd64.tar.gz](https://github.com/gitsocial-org/gitsocial/releases/download/v0.26.0/gitsocial_0.26.0_linux_amd64.tar.gz) | 11.5 MiB | `native/linux/x64` |
+| [gitsocial_0.26.0_linux_amd64.tar.gz.sbom.json](https://github.com/gitsocial-org/gitsocial/releases/download/v0.26.0/gitsocial_0.26.0_linux_amd64.tar.gz.sbom.json) | 80.4 KiB | `native/linux/x64` |
+| [gitsocial_0.26.0_linux_arm64.tar.gz](https://github.com/gitsocial-org/gitsocial/releases/download/v0.26.0/gitsocial_0.26.0_linux_arm64.tar.gz) | 10.5 MiB | `native/linux/arm64` |
+| [gitsocial_0.26.0_linux_arm64.tar.gz.sbom.json](https://github.com/gitsocial-org/gitsocial/releases/download/v0.26.0/gitsocial_0.26.0_linux_arm64.tar.gz.sbom.json) | 80.4 KiB | `native/linux/arm64` |
+| [gitsocial_0.26.0_windows_amd64.zip](https://github.com/gitsocial-org/gitsocial/releases/download/v0.26.0/gitsocial_0.26.0_windows_amd64.zip) | 11.8 MiB | `native/win/x64` |
+| [gitsocial_0.26.0_windows_amd64.zip.sbom.json](https://github.com/gitsocial-org/gitsocial/releases/download/v0.26.0/gitsocial_0.26.0_windows_amd64.zip.sbom.json) | 81.9 KiB | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -80,4 +80,4 @@ gitsocial 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260926.yml` · 2026-09-26T05:54:46Z._
+_数据快照: `data/card/260927.yml` · 2026-09-27T06:23:42Z._
