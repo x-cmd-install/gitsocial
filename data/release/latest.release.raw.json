@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 11469106,
       "digest": "sha256:76176af795114f39990781caf85ba0a8aa00b59fe9090808854e11d3ec68f1e9",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-09-27T03:35:43Z",
       "updated_at": "2026-09-27T03:35:45Z",
       "browser_download_url": "https://github.com/gitsocial-org/gitsocial/releases/download/v0.26.0/gitsocial_0.26.0_darwin_arm64.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 12095262,
       "digest": "sha256:1ed03e2ff13cd87896d6c0ac1791350df740693ea9b39e95ebf590a6287a48c4",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-09-27T03:35:43Z",
       "updated_at": "2026-09-27T03:35:46Z",
       "browser_download_url": "https://github.com/gitsocial-org/gitsocial/releases/download/v0.26.0/gitsocial_0.26.0_linux_amd64.tar.gz"
