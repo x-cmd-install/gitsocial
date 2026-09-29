@@ -48,12 +48,12 @@ Total: **179,432** lines of code across **888** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 5 | 0 | 0 | 0 | 0 | 330 |
-| last60d | 2026-07-30 | 9 | 0 | 0 | 0 | 0 | 376 |
-| 90d | 2026-06-30 | 17 | 0 | 0 | 0 | 0 | 424 |
-| last180d | 2026-04-01 | 34 | 0 | 0 | 0 | 0 | 528 |
-| 360d | 2025-10-03 | 56 | 0 | 0 | 0 | 0 | 574 |
-| last720d | 2024-10-08 | 56 | 0 | 0 | 0 | 0 | 575 |
+| 30d | 2026-08-30 | 5 | 0 | 0 | 0 | 0 | 330 |
+| last60d | 2026-07-31 | 9 | 0 | 0 | 0 | 0 | 376 |
+| 90d | 2026-07-01 | 17 | 0 | 0 | 0 | 0 | 424 |
+| last180d | 2026-04-02 | 34 | 0 | 0 | 0 | 0 | 528 |
+| 360d | 2025-10-04 | 56 | 0 | 0 | 0 | 0 | 574 |
+| last720d | 2024-10-09 | 56 | 0 | 0 | 0 | 0 | 575 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for gitsocial lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T06:31:49Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T06:55:19Z._
