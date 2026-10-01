@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 12095262,
       "digest": "sha256:1ed03e2ff13cd87896d6c0ac1791350df740693ea9b39e95ebf590a6287a48c4",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-09-27T03:35:43Z",
       "updated_at": "2026-09-27T03:35:46Z",
       "browser_download_url": "https://github.com/gitsocial-org/gitsocial/releases/download/v0.26.0/gitsocial_0.26.0_linux_amd64.tar.gz"
