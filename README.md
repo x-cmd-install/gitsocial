@@ -14,15 +14,15 @@ x install gitsocial
 
 ## Code insight
 
-Total: **196,590** lines of code across **950** files in the top 5 languages.
+Total: **197,341** lines of code across **952** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 173,950 | 15,120 | 16,344 | 761 |
-| JavaScript | 16,413 | 2,454 | 1,013 | 149 |
-| Json | 3,638 | 0 | 0 | 25 |
+| Go | 174,094 | 15,169 | 16,377 | 763 |
+| JavaScript | 16,520 | 2,475 | 1,022 | 149 |
+| Json | 4,112 | 0 | 0 | 25 |
 | Sh | 1,476 | 492 | 187 | 13 |
-| Css | 974 | 475 | 6 | 2 |
+| Css | 1,000 | 475 | 6 | 2 |
 
 ## Source
 
@@ -42,18 +42,18 @@ Total: **196,590** lines of code across **950** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 58 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 711
+- **Releases**: 58 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 713
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 3 | 0 | 0 | 0 | 0 | 114 |
-| last60d | 2026-08-26 | 7 | 0 | 0 | 0 | 0 | 471 |
-| 90d | 2026-07-27 | 11 | 0 | 0 | 0 | 0 | 513 |
-| last180d | 2026-04-28 | 31 | 0 | 0 | 0 | 0 | 630 |
-| 360d | 2025-10-30 | 54 | 0 | 0 | 0 | 0 | 710 |
-| last720d | 2024-11-04 | 58 | 0 | 0 | 0 | 0 | 711 |
+| 30d | 2026-09-26 | 3 | 0 | 0 | 0 | 0 | 116 |
+| last60d | 2026-08-27 | 7 | 0 | 0 | 0 | 0 | 473 |
+| 90d | 2026-07-28 | 11 | 0 | 0 | 0 | 0 | 515 |
+| last180d | 2026-04-29 | 30 | 0 | 0 | 0 | 0 | 632 |
+| 360d | 2025-10-31 | 53 | 0 | 0 | 0 | 0 | 712 |
+| last720d | 2024-11-05 | 58 | 0 | 0 | 0 | 0 | 713 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for gitsocial lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T05:40:26Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T05:48:44Z._
