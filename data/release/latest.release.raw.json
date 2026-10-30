@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 13079689,
       "digest": "sha256:22b61b124cd774a4be71b27ee375305ddbbe96dd7722a58c34c304d397d938bf",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-27T23:46:06Z",
       "updated_at": "2026-10-27T23:46:10Z",
       "browser_download_url": "https://github.com/gitsocial-org/gitsocial/releases/download/v0.29.0/gitsocial_0.29.0_darwin_amd64.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 11969921,
       "digest": "sha256:dd18e3dcde6e1c04a6bc69b531909c8cf850a837efae4f9f93ef1c3e0456d0fa",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-10-27T23:46:06Z",
       "updated_at": "2026-10-27T23:46:10Z",
       "browser_download_url": "https://github.com/gitsocial-org/gitsocial/releases/download/v0.29.0/gitsocial_0.29.0_darwin_arm64.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 12624401,
       "digest": "sha256:3a3c211093ff1d10903a26a33bdf5d3c51728b2204c96b224a244430a15edfc7",
-      "download_count": 6,
+      "download_count": 8,
       "created_at": "2026-10-27T23:46:06Z",
       "updated_at": "2026-10-27T23:46:09Z",
       "browser_download_url": "https://github.com/gitsocial-org/gitsocial/releases/download/v0.29.0/gitsocial_0.29.0_linux_amd64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 12881678,
       "digest": "sha256:0177adf9e53accb8b2e5d39db3712a6c1b61ff20b99a2d8ea8ae0fc8a6504f2e",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-10-27T23:46:06Z",
       "updated_at": "2026-10-27T23:46:09Z",
       "browser_download_url": "https://github.com/gitsocial-org/gitsocial/releases/download/v0.29.0/gitsocial_0.29.0_windows_amd64.zip"
