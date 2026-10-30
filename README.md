@@ -14,11 +14,11 @@ x install gitsocial
 
 ## Code insight
 
-Total: **198,620** lines of code across **952** files in the top 5 languages.
+Total: **198,625** lines of code across **952** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 174,709 | 15,210 | 16,417 | 763 |
+| Go | 174,714 | 15,211 | 16,418 | 763 |
 | JavaScript | 16,840 | 2,505 | 1,046 | 149 |
 | Json | 4,445 | 0 | 0 | 25 |
 | Sh | 1,476 | 492 | 187 | 13 |
@@ -33,7 +33,7 @@ Total: **198,620** lines of code across **952** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.29.0` (2026-10-27)
-- **Last commit**: 2026-10-27
+- **Last commit**: 2026-10-30
 - **Assets in release**: 11
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **198,620** lines of code across **952** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 59 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 717
+- **Releases**: 59 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 719
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 3 | 0 | 0 | 0 | 0 | 120 |
-| last60d | 2026-08-30 | 8 | 0 | 0 | 0 | 0 | 477 |
-| 90d | 2026-07-31 | 12 | 0 | 0 | 0 | 0 | 519 |
-| last180d | 2026-05-02 | 30 | 0 | 0 | 0 | 0 | 636 |
-| 360d | 2025-11-03 | 51 | 0 | 0 | 0 | 0 | 716 |
-| last720d | 2024-11-08 | 59 | 0 | 0 | 0 | 0 | 717 |
+| 30d | 2026-09-30 | 3 | 0 | 0 | 0 | 0 | 122 |
+| last60d | 2026-08-31 | 8 | 0 | 0 | 0 | 0 | 479 |
+| 90d | 2026-08-01 | 12 | 0 | 0 | 0 | 0 | 521 |
+| last180d | 2026-05-03 | 29 | 0 | 0 | 0 | 0 | 638 |
+| 360d | 2025-11-04 | 51 | 0 | 0 | 0 | 0 | 718 |
+| last720d | 2024-11-09 | 59 | 0 | 0 | 0 | 0 | 719 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for gitsocial lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T07:03:04Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T06:54:23Z._
