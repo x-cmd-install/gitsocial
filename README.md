@@ -38,7 +38,7 @@ Total: **198,625** lines of code across **952** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 126 · **Forks**: 5 · **Open issues**: 0 · **Contributors**: 5
+- **Stars**: 127 · **Forks**: 5 · **Open issues**: 0 · **Contributors**: 5
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **198,625** lines of code across **952** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 3 | 0 | 0 | 0 | 0 | 74 |
-| last60d | 2026-09-02 | 7 | 0 | 0 | 0 | 0 | 460 |
-| 90d | 2026-08-03 | 10 | 0 | 0 | 0 | 0 | 519 |
-| last180d | 2026-05-05 | 29 | 0 | 0 | 0 | 0 | 632 |
-| 360d | 2025-11-06 | 49 | 0 | 0 | 0 | 0 | 718 |
-| last720d | 2024-11-11 | 59 | 0 | 0 | 0 | 0 | 719 |
+| 30d | 2026-10-03 | 3 | 0 | 0 | 0 | 0 | 74 |
+| last60d | 2026-09-03 | 7 | 0 | 0 | 0 | 0 | 460 |
+| 90d | 2026-08-04 | 10 | 0 | 0 | 0 | 0 | 519 |
+| last180d | 2026-05-06 | 29 | 0 | 0 | 0 | 0 | 632 |
+| 360d | 2025-11-07 | 48 | 0 | 0 | 0 | 0 | 718 |
+| last720d | 2024-11-12 | 59 | 0 | 0 | 0 | 0 | 719 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for gitsocial lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T07:09:34Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T07:19:04Z._
