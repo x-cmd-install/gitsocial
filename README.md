@@ -14,13 +14,13 @@ x install gitsocial
 
 ## Code insight
 
-Total: **200,266** lines of code across **960** files in the top 5 languages.
+Total: **200,655** lines of code across **960** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 176,283 | 15,303 | 16,516 | 771 |
-| JavaScript | 16,905 | 2,510 | 1,051 | 149 |
-| Json | 4,451 | 0 | 0 | 25 |
+| Go | 176,454 | 15,310 | 16,523 | 771 |
+| JavaScript | 17,111 | 2,525 | 1,063 | 149 |
+| Json | 4,463 | 0 | 0 | 25 |
 | Sh | 1,476 | 492 | 187 | 13 |
 | Css | 1,012 | 478 | 6 | 2 |
 
@@ -33,27 +33,27 @@ Total: **200,266** lines of code across **960** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.29.0` (2026-10-27)
-- **Last commit**: 2026-11-03
+- **Last commit**: 2026-11-04
 - **Assets in release**: 11
 
 ## Popularity
 
-- **Stars**: 127 · **Forks**: 5 · **Open issues**: 0 · **Contributors**: 5
+- **Stars**: 128 · **Forks**: 5 · **Open issues**: 0 · **Contributors**: 5
 
 ## Totals (cumulative)
 
-- **Releases**: 59 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 720
+- **Releases**: 59 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 723
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 3 | 0 | 0 | 0 | 0 | 75 |
-| last60d | 2026-09-04 | 7 | 0 | 0 | 0 | 0 | 461 |
-| 90d | 2026-08-05 | 10 | 0 | 0 | 0 | 0 | 520 |
-| last180d | 2026-05-07 | 29 | 0 | 0 | 0 | 0 | 633 |
-| 360d | 2025-11-08 | 48 | 0 | 0 | 0 | 0 | 719 |
-| last720d | 2024-11-13 | 59 | 0 | 0 | 0 | 0 | 720 |
+| 30d | 2026-10-05 | 2 | 0 | 0 | 0 | 0 | 78 |
+| last60d | 2026-09-05 | 7 | 0 | 0 | 0 | 0 | 464 |
+| 90d | 2026-08-06 | 10 | 0 | 0 | 0 | 0 | 523 |
+| last180d | 2026-05-08 | 29 | 0 | 0 | 0 | 0 | 636 |
+| 360d | 2025-11-09 | 48 | 0 | 0 | 0 | 0 | 722 |
+| last720d | 2024-11-14 | 59 | 0 | 0 | 0 | 0 | 723 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for gitsocial lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T08:13:21Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T07:42:44Z._
