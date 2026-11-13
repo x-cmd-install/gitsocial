@@ -14,15 +14,15 @@ x install gitsocial
 
 ## Code insight
 
-Total: **200,994** lines of code across **960** files in the top 5 languages.
+Total: **206,684** lines of code across **1003** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 176,600 | 15,318 | 16,530 | 771 |
-| JavaScript | 17,290 | 2,543 | 1,077 | 149 |
-| Json | 4,476 | 0 | 0 | 25 |
-| Sh | 1,476 | 492 | 187 | 13 |
-| Css | 1,013 | 478 | 6 | 2 |
+| Go | 181,517 | 15,694 | 16,910 | 806 |
+| JavaScript | 17,933 | 2,611 | 1,165 | 155 |
+| Json | 4,538 | 0 | 0 | 26 |
+| Sh | 1,531 | 502 | 191 | 14 |
+| Css | 1,022 | 479 | 6 | 2 |
 
 ## Source
 
@@ -32,8 +32,8 @@ Total: **200,994** lines of code across **960** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.29.0` (2026-10-27)
-- **Last commit**: 2026-11-08
+- **Latest**: `v0.30.0` (2026-11-13)
+- **Last commit**: 2026-11-13
 - **Assets in release**: 11
 
 ## Popularity
@@ -42,34 +42,34 @@ Total: **200,994** lines of code across **960** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 59 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 729
+- **Releases**: 60 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 761
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 2 | 0 | 0 | 0 | 0 | 55 |
-| last60d | 2026-09-13 | 5 | 0 | 0 | 0 | 0 | 267 |
-| 90d | 2026-08-14 | 10 | 0 | 0 | 0 | 0 | 509 |
-| last180d | 2026-05-16 | 27 | 0 | 0 | 0 | 0 | 634 |
-| 360d | 2025-11-17 | 43 | 0 | 0 | 0 | 0 | 728 |
-| last720d | 2024-11-22 | 59 | 0 | 0 | 0 | 0 | 729 |
+| 30d | 2026-10-14 | 3 | 0 | 0 | 0 | 0 | 87 |
+| last60d | 2026-09-14 | 6 | 0 | 0 | 0 | 0 | 299 |
+| 90d | 2026-08-15 | 11 | 0 | 0 | 0 | 0 | 541 |
+| last180d | 2026-05-17 | 27 | 0 | 0 | 0 | 0 | 666 |
+| 360d | 2025-11-18 | 44 | 0 | 0 | 0 | 0 | 760 |
+| last720d | 2024-11-23 | 60 | 0 | 0 | 0 | 0 | 761 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/gitsocial-org/gitsocial/releases/download/v0.29.0/checksums.txt) | 1.0 KiB | `other` |
-| [gitsocial_0.29.0_darwin_amd64.zip](https://github.com/gitsocial-org/gitsocial/releases/download/v0.29.0/gitsocial_0.29.0_darwin_amd64.zip) | 12.5 MiB | `native/darwin/x64` |
-| [gitsocial_0.29.0_darwin_amd64.zip.sbom.json](https://github.com/gitsocial-org/gitsocial/releases/download/v0.29.0/gitsocial_0.29.0_darwin_amd64.zip.sbom.json) | 81.9 KiB | `native/darwin/x64` |
-| [gitsocial_0.29.0_darwin_arm64.zip](https://github.com/gitsocial-org/gitsocial/releases/download/v0.29.0/gitsocial_0.29.0_darwin_arm64.zip) | 11.4 MiB | `native/darwin/arm64` |
-| [gitsocial_0.29.0_darwin_arm64.zip.sbom.json](https://github.com/gitsocial-org/gitsocial/releases/download/v0.29.0/gitsocial_0.29.0_darwin_arm64.zip.sbom.json) | 81.9 KiB | `native/darwin/arm64` |
-| [gitsocial_0.29.0_linux_amd64.tar.gz](https://github.com/gitsocial-org/gitsocial/releases/download/v0.29.0/gitsocial_0.29.0_linux_amd64.tar.gz) | 12.0 MiB | `native/linux/x64` |
-| [gitsocial_0.29.0_linux_amd64.tar.gz.sbom.json](https://github.com/gitsocial-org/gitsocial/releases/download/v0.29.0/gitsocial_0.29.0_linux_amd64.tar.gz.sbom.json) | 80.4 KiB | `native/linux/x64` |
-| [gitsocial_0.29.0_linux_arm64.tar.gz](https://github.com/gitsocial-org/gitsocial/releases/download/v0.29.0/gitsocial_0.29.0_linux_arm64.tar.gz) | 11.0 MiB | `native/linux/arm64` |
-| [gitsocial_0.29.0_linux_arm64.tar.gz.sbom.json](https://github.com/gitsocial-org/gitsocial/releases/download/v0.29.0/gitsocial_0.29.0_linux_arm64.tar.gz.sbom.json) | 80.4 KiB | `native/linux/arm64` |
-| [gitsocial_0.29.0_windows_amd64.zip](https://github.com/gitsocial-org/gitsocial/releases/download/v0.29.0/gitsocial_0.29.0_windows_amd64.zip) | 12.3 MiB | `native/win/x64` |
-| [gitsocial_0.29.0_windows_amd64.zip.sbom.json](https://github.com/gitsocial-org/gitsocial/releases/download/v0.29.0/gitsocial_0.29.0_windows_amd64.zip.sbom.json) | 81.9 KiB | `native/win/x64` |
+| [checksums.txt](https://github.com/gitsocial-org/gitsocial/releases/download/v0.30.0/checksums.txt) | 1.0 KiB | `other` |
+| [gitsocial_0.30.0_darwin_amd64.zip](https://github.com/gitsocial-org/gitsocial/releases/download/v0.30.0/gitsocial_0.30.0_darwin_amd64.zip) | 14.9 MiB | `native/darwin/x64` |
+| [gitsocial_0.30.0_darwin_amd64.zip.sbom.json](https://github.com/gitsocial-org/gitsocial/releases/download/v0.30.0/gitsocial_0.30.0_darwin_amd64.zip.sbom.json) | 87.3 KiB | `native/darwin/x64` |
+| [gitsocial_0.30.0_darwin_arm64.zip](https://github.com/gitsocial-org/gitsocial/releases/download/v0.30.0/gitsocial_0.30.0_darwin_arm64.zip) | 13.8 MiB | `native/darwin/arm64` |
+| [gitsocial_0.30.0_darwin_arm64.zip.sbom.json](https://github.com/gitsocial-org/gitsocial/releases/download/v0.30.0/gitsocial_0.30.0_darwin_arm64.zip.sbom.json) | 87.3 KiB | `native/darwin/arm64` |
+| [gitsocial_0.30.0_linux_amd64.tar.gz](https://github.com/gitsocial-org/gitsocial/releases/download/v0.30.0/gitsocial_0.30.0_linux_amd64.tar.gz) | 12.2 MiB | `native/linux/x64` |
+| [gitsocial_0.30.0_linux_amd64.tar.gz.sbom.json](https://github.com/gitsocial-org/gitsocial/releases/download/v0.30.0/gitsocial_0.30.0_linux_amd64.tar.gz.sbom.json) | 80.7 KiB | `native/linux/x64` |
+| [gitsocial_0.30.0_linux_arm64.tar.gz](https://github.com/gitsocial-org/gitsocial/releases/download/v0.30.0/gitsocial_0.30.0_linux_arm64.tar.gz) | 11.1 MiB | `native/linux/arm64` |
+| [gitsocial_0.30.0_linux_arm64.tar.gz.sbom.json](https://github.com/gitsocial-org/gitsocial/releases/download/v0.30.0/gitsocial_0.30.0_linux_arm64.tar.gz.sbom.json) | 80.7 KiB | `native/linux/arm64` |
+| [gitsocial_0.30.0_windows_amd64.zip](https://github.com/gitsocial-org/gitsocial/releases/download/v0.30.0/gitsocial_0.30.0_windows_amd64.zip) | 12.4 MiB | `native/win/x64` |
+| [gitsocial_0.30.0_windows_amd64.zip.sbom.json](https://github.com/gitsocial-org/gitsocial/releases/download/v0.30.0/gitsocial_0.30.0_windows_amd64.zip.sbom.json) | 82.2 KiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -80,4 +80,4 @@ Install metadata for gitsocial lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T08:49:33Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T08:16:00Z._
